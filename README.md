@@ -1,0 +1,2 @@
+# Emby.Plugin.ScreeningRoom
+🚧WIP
